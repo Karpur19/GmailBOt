@@ -1,6 +1,14 @@
-# Gmail Bot
-A simple Gmail bot I created in Node.js to help actively filter my emails.
+Gmail Bot (Email Management Automation)
+📩 Description:
+A Node.js-based Gmail bot that filters and manages emails automatically using Gmail API & NLP.
 
+🔧 Tech Stack:
+✅ Node.js | JavaScript | Socket.io | Gmail API | OAuth 2.0
+
+🔥 Key Features:
+✔️ Filters emails into "Important," "Promotions," and "Spam"
+✔️ Uses NLP-based keyword matching for classification
+✔️ Real-time notifications using WebSockets
 
 # Requirements and Setup
 ## Requirements
